@@ -1,0 +1,2 @@
+# Alogorithms
+All basic algorithms.
